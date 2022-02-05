@@ -1,0 +1,241 @@
+[
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_sword",
+        "catalyst": "draconicevolution:wyvern_sword"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_sword",
+        "catalyst": "draconicevolution:wyvern_sword",
+        "energy": 200000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_block",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_block",
+            "aether_legacy:valkyrie_lance",
+            "botania:terrasword",
+            "bloodarsenal:stasis_sword",
+            "thaumcraft:elemental_sword",
+            "twilightforest:giant_sword",
+            "enderio:item_end_steel_sword",
+            "psi:psimetal_sword"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_shovel",
+        "catalyst": "draconicevolution:wyvern_shovel"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_shovel",
+        "catalyst": "draconicevolution:wyvern_shovel",
+        "energy": 200000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_block",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_block",
+            "aether_legacy:valkyrie_shovel",
+            "botania:manasteelshovel",
+            "bloodarsenal:stasis_shovel",
+            "thaumcraft:elemental_shovel",
+            "twilightforest:ironwood_shovel",
+            "psi:psimetal_shovel"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_pick",
+        "catalyst": "draconicevolution:wyvern_pick"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_pick",
+        "catalyst": "draconicevolution:wyvern_pick",
+        "energy": 200000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_block",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_block",
+            "aether_legacy:valkyrie_pickaxe",
+            "botania:manasteelpick",
+            "bloodarsenal:stasis_pickaxe",
+            "thaumcraft:elemental_pick",
+            "twilightforest:giant_pickaxe",
+            "enderio:item_end_steel_pickaxe",
+            "psi:psimetal_pickaxe"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_axe",
+        "catalyst": "draconicevolution:wyvern_axe"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_axe",
+        "catalyst": "draconicevolution:wyvern_axe",
+        "energy": 200000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_block",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_block",
+            "aether_legacy:valkyrie_axe",
+            "botania:manasteelshovel",
+            "bloodarsenal:stasis_axe",
+            "thaumcraft:elemental_axe",
+            "twilightforest:ironwood_axe",
+            "psi:psimetal_axe"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_hoe",
+        "catalyst": "minecraft:diamond_hoe"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_hoe",
+        "catalyst": "minecraft:diamond_hoe",
+        "energy": 200000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_block",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_block",
+            "thaumcraft:elemental_hoe",
+            "twilightforest:ironwood_hoe"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_bow",
+        "catalyst": "draconicevolution:wyvern_bow"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_bow",
+        "catalyst": "draconicevolution:wyvern_bow",
+        "energy": 200000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_block",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_block",
+            "aether_legacy:phoenix_bow",
+            "botania:crystalbow",
+            "enderio:item_end_steel_bow"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots",
+        "energy": 200000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "aether_legacy:obsidian_boots",
+            "botania:terrasteelboots",
+            "bloodmagic:living_armour_boots",
+            "thaumcraft:traveller_boots",
+            "twilightforest:yeti_boots",
+            "enderio:item_end_steel_boots",
+            "psi:psimetal_exosuit_boots"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs",
+        "energy": 400000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "aether_legacy:obsidian_leggings",
+            "botania:terrasteellegs",
+            "bloodmagic:living_armour_leggings",
+            "thaumcraft:fortress_legs",
+            "twilightforest:yeti_leggings",
+            "enderio:item_end_steel_leggings",
+            "psi:psimetal_exosuit_leggings"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest",
+        "energy": 800000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "aether_legacy:obsidian_chestplate",
+            "botania:terrasteelchest",
+            "bloodmagic:living_armour_chest",
+            "thaumcraft:fortress_chest",
+            "twilightforest:yeti_chestplate",
+            "enderio:item_end_steel_chestplate",
+            "psi:psimetal_exosuit_chestplate"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm",
+        "energy": 200000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "aether_legacy:obsidian_helmet",
+            "botania:terrasteelhelm",
+            "bloodmagic:living_armour_helmet",
+            "thaumcraft:fortress_helm",
+            "twilightforest:yeti_helmet",
+            "enderio:item_end_steel_helmet",
+            "psi:psimetal_exosuit_helmet"
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+§n§lChangements mods :§r
+- Le mod "Storage Drawers: Extras" a été remplacé par "Storage Drawers: Unlimited".
+- Le mod "Buildcraft" a été enlevé.
+- Le mod "Mystical Agriculture" a été enlevé.
+- Le mod "Cucumber" a été enlevé.
+- Le mod "Chest Transporter" a été enlevé.
+- Le mod "AlcatrazCore" a été enlevé.
+- Le mod "MrTJPCore" a été enlevé.
+- Le mod "Deep Resonance" a été ajouté.
+- Le mod "Fancy Lamps" a été ajouté.
+- Le mod "Fairy Lights" a été ajouté.
+- Le mod "Ceramics" a été ajouté.
+- Le mod "Waystones" a été ajouté.
+- Le mod "XTones" a été ajouté.
+- Le mod "Redstone Arsenal" a été ajouté.
+- Le mod "Nutrition" a été ajouté.
+- Le mod "Immersive Cables" a été ajouté.
+- Le mod "MP Utils" a été ajouté.
+- Le mod "MP Basic" a été ajouté.
+- Le mod "Hunger Tweaker" a été ajouté.
+- Le mod "AppleCore" a été ajouté.
+- Le mod "Rustic" a été ajouté.
+- Le mod "EnderTweaker" a été ajouté.
+- Le mod "Charset : Storages" a été ajouté.
+- Le mod "Charset : Tanks" a été ajouté.
+- Le mod "EmberRootsZoo" a été ajouté.
+- Le mod "Debark" a été ajouté.
+- Le mod "Rustic BOP Woods" a été ajouté.
+- Le mod "Just Enough Petroleum" a été ajouté.
+- Le mod "JETIF" a été ajouté.
+- Le mod "What Looms Ahead" a été ajouté.
+- Le mod "Malisis Doors" a été ajouté.
+- Le mod "Malisis Core" a été ajouté.
+- Le mod "Simply Light" a été ajouté.
+- Le mod "FTB Utilities" a été ajouté.
+
+§n§lAutres ajouts :§r
+- Tout les types de Rainbow Porcelain peuvent être obtenu dans la chisel. 
+- La nourriture vanilla donne maintenant sa valeur originale pas celle de Pam's Harvestcraft.
+- Les plates de Industrial Craft se font maintenant dans la Metal Press comme les autres plates.
+- La Stable Stone de SonarCore sont maintenant reconnus comme des variantes dans Chisel.
+- La nourriture de viande cuite donne maintenant maximum 3 gigots.
+- Les aliments de Pam's Harvestcraft peuvent être utilisés dans Rustic.
+- Les planches colorés de Rustic ont un craft différent de celles de Quark.
+- Les minerais de Draconium se génère maintenant dans le monde.
+- Les Arcanes Bases de Fancy Lamps se crafts avec des crystaux de Thaumcraft.
+- Les pilliers de Rustic sont obtenables avec la Chisel.
+- La slate de Rustic est obtenable avec la Chisel.
+- Les enchantements Soulbound ont été unifiés.
+- Les coffres de Charset sont craftables avec des bûches.
+- Les armures et outils de Tinker's Construct sont maintenant bien rendu et les outils ne sont plus blancs.
+- La texture du Lapis Nugget a été améliorée.
+- La densité de la forêt de Twilight Forest est maintenant deux fois plus petite pour éviter les lags sur serveur.
+- Les gros arbres de Twilight Forest sont maintenant deux fois plus rare pour éviter les lags sur serveur.
+- Les dusts peuvent être pulverizés avec les crusher de chaques mods.
+- Les minerais avec gem (crystal) ont maintenant un craft différent des lingots avec la petro et pyro dust.
+- Le bloc de Crying Obsidian a été ajouté.
+- Le livre enchanté Smelting peux être maintenant crafté avec des fiery ingots de twilight.
+- Les blocs de Xtones peuvent être obtenus dans la Chisel.
+- La texture du Bacon de Actually Additions a été modifiée.
+- Les Fancy Workbench ont été réactivés.
+- Les blocs moches ont été cachés dans JEI.

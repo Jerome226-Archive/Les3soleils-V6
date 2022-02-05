@@ -1,0 +1,30 @@
+{
+  "bloodmagic:blood_altar_adv": {
+    "x": 0.0,
+    "y": 0.24275725
+  },
+  "bloodmagic:incense_altar": {
+    "x": 0.0,
+    "y": 0.63836163
+  },
+  "bloodmagic:demon_will_aura": {
+    "x": 0.0,
+    "y": 0.08691309
+  },
+  "bloodmagic:inversion_pillar": {
+    "x": 0.0,
+    "y": 0.02997003
+  },
+  "bloodarsenal:augmented_holding": {
+    "x": 0.72,
+    "y": 1.0
+  },
+  "bloodmagic:holding": {
+    "x": 0.72,
+    "y": 1.0
+  },
+  "bloodmagic:blood_altar": {
+    "x": 0.0,
+    "y": 0.5244755
+  }
+}

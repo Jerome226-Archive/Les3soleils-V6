@@ -1,0 +1,174 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "assets:menu/textures/gui/logo/frame_00.png",
+            "posX" : -200,
+            "posY" : -40,
+            "width" : 360,
+            "height" : 150,
+            "alignment" : "top_center"
+        },
+        
+        "edition":
+        {
+            "image" : "custommainmenu:textures/gui/transparent.png",
+            "posX" : -49,
+            "posY" : 67,
+            "width" : 128,
+            "height" : 16,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "",
+            "posX" : -82,
+            "posY" : 48,
+            "width" : 80,
+            "height" : 20,
+            "texture" : "assets:menu/textures/gui/singleplayer.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : 48,
+            "width" : 80,
+            "height" : 20,
+            "texture" : "assets:menu/textures/gui/multiplayer.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : 72,
+            "width" : 80,
+            "height" : 20,
+            "texture" : "assets:menu/textures/gui/mods.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "",
+            "posX" : -82,
+            "posY" : 72,
+            "width" : 80,
+            "height" : 20,
+            "texture" : "assets:menu/textures/gui/options.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+        "changelog":
+        {
+            "text" : "",
+            "posX" : 20,
+            "posY" : 100,
+            "width" : 20,
+	    "height" : 20,
+            "texture" : "assets:menu/textures/gui/changelog.png",
+	    "wrappedButton" : 401
+        },
+        "reportbug":
+        {
+            "text" : "",
+            "posX" : -20,
+            "posY" : 100,
+            "width" : 20,
+	    "height" : 20,
+            "texture" : "assets:menu/textures/gui/issues.png",
+	    "wrappedButton" : 402
+        },
+	"Support":
+        {
+            "text" : "",
+            "posX" : -50,
+            "posY" : 100,
+            "width" : 20,
+	    "height" : 20,
+            "texture" : "assets:menu/textures/gui/support_us.png",
+	    "wrappedButton" : 403
+        },
+        
+        "quit":
+        {
+            "text" : "",
+            "posX" : 60,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "assets:menu/textures/gui/quit.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -80,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "assets:menu/textures/gui/refresh.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
+            "posX" : -420,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        }
+        
+    },
+    
+    "other":
+    {   
+        "background":
+        {
+	"image" : "assets:menu/textures/gui/background/menu_background.png",
+	"mode" : "fill"
+        }
+    }
+}
